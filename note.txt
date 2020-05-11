@@ -1,0 +1,35 @@
+
+    ###Persiapan 1
+
+  - Lingkungan Pengembangan ( Virtual Environment )
+    1. Install python package manager
+    2. Install venv
+
+  - instalasi Libary
+    1. Pyhton Versi 3..
+    2. Framework Flask
+       * Skeleton (Kerangka)
+       * Static File ( templates, Static )
+       * Routing
+       * Run & Debuging
+    3. Templating
+  
+
+    ###Persiapan 2
+  - Pembuatan Account Firebase (Sebagai Database Utama)
+  - Download SDK untuk Python devlopment
+  - Firebase Setting & Rules
+  - Post to firebase
+  - Get data from firebase
+  
+    ###Persiapan 3
+    Git (Version Manager)
+  - instalasi
+  - pembuatan .gitignore
+  - pembuatan Project
+  - Push (post)
+    * init, add remote, Commit
+  - Pull (get)
+    * clone
+    
+  
